@@ -1,4 +1,4 @@
-# Sackey Family's Secret Recipes
+# Family Secret Recipes
 
 Set of recipes as given by my grandma. 
 
